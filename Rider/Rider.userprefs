@@ -1,0 +1,25 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Unit\MonsterCreature.cs">
+    <Files>
+      <File FileName="Assets\Scripts\GameMode\MonsterSpawner.cs" Line="15" Column="2" />
+      <File FileName="Assets\Scripts\GameMode\GameMode.cs" Line="97" Column="23" />
+      <File FileName="Assets\Scripts\Unit\MonsterCreature.cs" Line="137" Column="4" />
+      <File FileName="Assets\Scripts\MovingPattern\MovingPattern.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DataTable.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\InputManager.cs" Line="23" Column="92" />
+      <File FileName="Assets\Scripts\Unit\Troops.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Unit\Creature.cs" Line="45" Column="34" />
+      <File FileName="Assets\Scripts\UI\DamageText.cs" Line="17" Column="15" />
+      <File FileName="Assets\Scripts\Unit\RiderCreature.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\HudUI.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\UI\Lobby.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MovingPattern\CurveSMovingPattern.cs" Line="1" Column="1" />
+      <File FileName="Assets\Resources\CVS\MonsterData.txt" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
