@@ -13,10 +13,10 @@ public class MonsterSpawner : MonoBehaviour {
 	
 	private float m_RemainSpawnDelay = 0.0f;
 
+	//random
 	private System.Random r = new System.Random ();
 
 	private void DoSpawn(){
-
 		MonsterData MonData; 
 		DataTable.Get ().GetMonsterData (MonsterID, out MonData);
 		if (MonData != null) {
